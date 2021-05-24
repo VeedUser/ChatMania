@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270947232376",
+    "project_id": "chatmania-46a30",
+    "storage_bucket": "chatmania-46a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270947232376:android:3ae042df9b455c62bb9b8d",
+        "android_client_info": {
+          "package_name": "veed.sm.chatmania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270947232376-3shueqqunhct1e4dac4k13ess1hj5rcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "veed.sm.chatmania",
+            "certificate_hash": "b3d03b4db30f1399311f1cdd15cb89f5224afeac"
+          }
+        },
+        {
+          "client_id": "270947232376-poqdu5r9tv7jobck8sc099uq073utoh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSw6ywaLuwMwyu67ernvFcmVoxGYMvuWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270947232376-poqdu5r9tv7jobck8sc099uq073utoh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
